@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/shrikanth-dev/news-homepage-main)
-- Live Site URL: [ live site URL ]()
+- Live Site URL: [ live site URL ](https://shrikanth-dev.github.io/news-homepage-main/)
 
 ## My process
 
